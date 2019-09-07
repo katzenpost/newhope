@@ -1,8 +1,8 @@
-module gitlab.com/yawning/newhope.git
+module github.com/katzenpost/newhope
 
 go 1.12
 
 require (
-	gitlab.com/yawning/chacha20.git v0.0.0-20190902183103-644b09ac4e6e
+	github.com/katzenpost/chacha20 v0.0.0-20190907175341-fad9676fa4d8
 	golang.org/x/crypto v0.0.0-20190829043050-9756ffdc2472
 )
